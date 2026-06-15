@@ -11,7 +11,7 @@ We are an FTC Team based in Saratoga, CA, and compete in the NorCal region.
 **20373-Freight-Frenzy-Code** All our Java classes used for the 2021-22 Freight Frenzy season.
 
 ### Check out our [website](https://rmschimera.wixsite.com/20373rmschimera)!
-### Check out our [Youtube Channel](https://https://www.youtube.com/@rmschimera3221)
+### Check out our [Youtube Channel](https://https://www.youtube.com/@rmschimera3221)!
 
 
 <!--
