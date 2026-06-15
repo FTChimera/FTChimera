@@ -2,7 +2,7 @@
 
 We are an FTC Team based in Saratoga, CA, and compete in the NorCal region.
 
-## Check out our popular repos\
+## Check out our popular repos
 **Testing-Quickstart**   Our quickstart for Android Studio's Unit testing feature, for FTC!\
 **20373-Biobuzz-26-27**   Our Android Studio Project containing all the code for the 2026-27 BioBuzz season.\
 **Chimera-Decode-25-26**   Our Android Studio Project containing all the code for the 2025-26 DECODE season.\
