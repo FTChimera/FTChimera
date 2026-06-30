@@ -2,6 +2,8 @@
 
 We are an FTC Team based in Saratoga, CA, and compete in the NorCal region.
 
+<img src="./logoWithText.png" width=20% height=auto alt="Alt text"><img src="./chimeralogo (1) (1).jpg" width=21.552% height=auto alt="Alt text">
+
 ## Check out our popular repos
 [Testing-Quickstart](https://github.com/FTChimera/Testing-Quickstart)   Our quickstart for Android Studio's Unit testing feature, for FTC!\
 [Chimera-Decode-25-26](https://github.com/FTChimera/Chimera-Decode-25-26)   Our Android Studio Project containing all the code for the 2025-26 DECODE season.\
