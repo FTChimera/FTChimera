@@ -11,8 +11,13 @@ We are an FTC Team based in Saratoga, CA, and compete in the NorCal region.
 [Power-Play-Code](https://github.com/FTChimera/Power-Play-Code)  All of our Java classes used in the 2022-23 Power Play season.\
 [20373-Freight-Frenzy-Code](https://github.com/FTChimera/20373-Freight-Frenzy-Code)   All our Java classes used for the 2021-22 Freight Frenzy season.
 
-### Check out our [website](https://rmschimera.wixsite.com/20373rmschimera)!
-### Check out our [Youtube Channel](https://https://www.youtube.com/@rmschimera3221)!
+### Check out our website and youtube channel!
+<a href="https://rmschimera.wixsite.com/20373rmschimera">
+  <img src="./chimeralogo.jpg" width=15% alt="20373 RMS Chimera website">
+</a>
+<a href="https://www.youtube.com/channel/UCTl62NnXikJY25AVIKkGxUg">
+  <img src="./youtube.jpg" width=15% alt="20373 RMS Chimera Youtube channel">
+</a>
 
 
 <!--[20373-Biobuzz-26-27](https://github.com/FTChimera/20373-Chimera-Biobuzz-26-27)   Our Android Studio Project containing all the code for the 2026-27 BioBuzz season.\ -->
