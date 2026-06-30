@@ -2,7 +2,7 @@
 
 We are an FTC Team based in Saratoga, CA, and compete in the NorCal region.
 
-<img src="./logoWithText.png" width=20.000% height=auto alt="20373 RMS Chimera logo with text"><img src="./chimeralogo (1) (1).jpg" width=21.556% height=auto alt="20373 RMS Chimera logo in white"><img src="./first-tech-challenge-logo-png_seeklogo-322469.png" width=20.310% height=auto alt="FIRST Tech Challenge Logo">
+<img src="./logoWithText.png" width=20.000% height=auto alt="20373 RMS Chimera logo with text"><img src="./chimeraLogoWhite.png" width=20.371% height=auto alt="20373 RMS Chimera logo in white"><img src="./first-tech-challenge-logo-png_seeklogo-322469.png" width=20.310% height=auto alt="FIRST Tech Challenge Logo">
 
 ## Check out our popular repos
 [Testing-Quickstart](https://github.com/FTChimera/Testing-Quickstart)   Our quickstart for Android Studio's Unit testing feature, for FTC!\
