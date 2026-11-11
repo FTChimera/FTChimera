@@ -6,7 +6,7 @@ We are an FTC Team based in Saratoga, CA, and compete in the NorCal region.
 
 ## Check out our popular repos
 [Testing-Quickstart](https://github.com/FTChimera/Testing-Quickstart)   Our quickstart for using Android Studio's Unit testing feature, for FTC!\
-[20373-Chimera-Biobuzz-26-27](https://github.com/FTChimera/20373-Chimera-Biobuzz-26-27)  Our Android Studio Project containing all the code for the 2026-27 BioBuzz season.
+[20373-Chimera-Biobuzz-26-27](https://github.com/FTChimera/20373-Chimera-Biobuzz-26-27)  Our Android Studio Project containing all the code for the 2026-27 BioBuzz season.\
 [Chimera-Decode-25-26](https://github.com/FTChimera/Chimera-Decode-25-26)   Our Android Studio Project containing all the code for the 2025-26 DECODE season.\
 [Centerstage-code](https://github.com/FTChimera/CenterStage-code)   Our Android Studio TeamCode folder containing all the code for the 2023-24 CenterStage season.\
 [Power-Play-Code](https://github.com/FTChimera/Power-Play-Code)  All of our Java classes used in the 2022-23 Power Play season.\
